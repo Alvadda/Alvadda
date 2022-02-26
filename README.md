@@ -1,4 +1,6 @@
 # Hi there, I'm Chris - aka Alvadda 👋 
+[![Podcast](https://img.shields.io/badge/-Podcast-gray.svg?colorB=ff652f&style=for-the-badge)][podcast]
+[![CV](https://img.shields.io/badge/-CV-gray.svg?color=999f&style=for-the-badge)][cv]
 
 ## I'm a Web Developer, Podcaster and Reader!
 
@@ -51,3 +53,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvadda&hide=contribs,prs&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[podcast]: https://open.spotify.com/show/2IpuRowHGWuKze3Veyq3PJ
+[cv]: https://chrisp.tech/
