@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything about Web-Dev 🤣
 - 📚 I’m currently reading How to Win Friends and Influcane People & Clean Code 
 - 🥅 2022 Goals: Become a Freelancer! & publish my first App
-- ⚡ Fun fact: I Quit Gaming to become a better version of my self! 
+- ⚡ Fun fact: I [Quit Gaming][podcast] to become a better version of my self! 
 
 ### What I know:
 
