@@ -50,5 +50,4 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvadda&hide=contribs,prs&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
