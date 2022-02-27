@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer, Podcaster and Reader!
 
-- 🔭 I’m currently working on Time-Tracking App as a PWA with React
+- 🔭 I’m currently working on a Time-Tracking App as a PWA with React
 - 🌱 I’m currently learning everything about Web-Dev 🤣
 - 📚 I’m currently reading 'How to Win Friends and Influcane People' & 'Clean Code'
 - 🥅 2022 Goals: Become a Freelancer! & publish my first App
