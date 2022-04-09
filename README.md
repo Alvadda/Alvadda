@@ -1,6 +1,6 @@
 # Hi there, I'm Chris - aka Alvadda 👋 
 [![Podcast](https://img.shields.io/badge/-Podcast-gray.svg?colorB=ff652f&style=for-the-badge)][podcast]
-[![CV](https://img.shields.io/badge/-CV-gray.svg?color=999f&style=for-the-badge)][cv]
+[![Website](https://img.shields.io/badge/-Website-gray.svg?color=999f&style=for-the-badge)][website]
 
 ## I'm a Web Developer, Podcaster and Reader!
 
@@ -55,4 +55,4 @@
 
 
 [podcast]: https://open.spotify.com/show/2IpuRowHGWuKze3Veyq3PJ
-[cv]: https://chrisp.tech/
+[website]: https://chrisp.tech/
