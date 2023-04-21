@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on a Time-Tracking App as a PWA with React
 - 🌱 I’m currently learning everything about Web-Dev 🤣
 - 📚 I’m currently reading 'Shoe Dog' & 'The Phoenix Project'
-- 🥅 2022 Goals: Become a Freelancer! & publish my first App
 - ⚡ Fun fact: I [Quit Gaming][podcast] to become a better version of my self! 
 
 ### What I know:
