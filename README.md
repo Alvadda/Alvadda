@@ -1,10 +1,8 @@
 # Hi there, I'm Chris - aka Alvadda 👋 
-[![Podcast](https://img.shields.io/badge/-Podcast-gray.svg?colorB=ff652f&style=for-the-badge)][podcast]
 [![Website](https://img.shields.io/badge/-Website-gray.svg?color=999f&style=for-the-badge)][website]
 
 ## I'm a Web Developer, Podcaster and Reader!
 
-- 🔭 I’m currently working on a Time-Tracking App as a PWA with React
 - 🌱 I’m currently learning everything about Web-Dev 🤣
 - 📚 I’m currently reading 'Shoe Dog' & 'The Phoenix Project'
 - ⚡ Fun fact: I [Quit Gaming][podcast] to become a better version of my self! 
